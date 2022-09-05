@@ -20,6 +20,14 @@ php artisan migrate
 ```
 
 ```
+npm install
+```
+```
+npm run dev
+```
+#### In a separate terminal, run the following command
+
+```
 php artisan serve
 ```
 
